@@ -1,0 +1,2 @@
+
+(soffice:128877): Gtk-WARNING **: 15:58:39.750: Could not read property GtkBox:pack_type with value begin of type GtkPackType: Could not parse enum: 'begin'
